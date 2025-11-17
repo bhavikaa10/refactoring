@@ -1,4 +1,4 @@
-421048c Task 2.2: Extracted getVolumeCredits method
+421048c Task 2.2
 de105c7 task 2.1
 c38b330 task 2.1
 61689d6 task 1.2
